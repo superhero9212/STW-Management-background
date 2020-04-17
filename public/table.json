@@ -1,0 +1,112 @@
+{
+    "list": [{
+            "imei": "860548040888627",
+            "QRcode": "STWB092003000029",
+            "background": "STW测试后台",
+            "iot": "上海iot",
+            "isShipping": 1,
+            "customerName": "法国客户",
+            "remarks": ""
+        },
+        {
+            "imei": "860548040888627",
+            "QRcode": "STWB092003000029",
+            "background": "STW测试后台",
+            "iot": "德国iot",
+            "isShipping": 0,
+            "customerName": "NULL",
+            "remarks": ""
+        },
+        {
+            "imei": "860548040888627",
+            "QRcode": "STWB092003000029",
+            "background": "STW测试后台",
+            "iot": "上海iot",
+            "isShipping": 1,
+            "customerName": "墨西哥客户",
+            "remarks": ""
+        },
+        {
+            "imei": "860548040888627",
+            "QRcode": "STWB092003000029",
+            "background": "STW测试后台",
+            "iot": "上海iot",
+            "isShipping": 0,
+            "customerName": "NULL",
+            "remarks": ""
+        },
+        {
+            "imei": "860548040888627",
+            "QRcode": "STWB092003000029",
+            "background": "STW测试后台",
+            "iot": "上海iot",
+            "isShipping": 1,
+            "customerName": "法国客户",
+            "remarks": ""
+        },
+        {
+            "imei": "860548040888627",
+            "QRcode": "STWB092003000029",
+            "background": "STW测试后台",
+            "iot": "德国iot",
+            "isShipping": 0,
+            "customerName": "NULL",
+            "remarks": ""
+        },
+        {
+            "imei": "860548040888627",
+            "QRcode": "STWB092003000029",
+            "background": "STW测试后台",
+            "iot": "上海iot",
+            "isShipping": 1,
+            "customerName": "墨西哥客户",
+            "remarks": ""
+        },
+        {
+            "imei": "860548040888627",
+            "QRcode": "STWB092003000029",
+            "background": "STW测试后台",
+            "iot": "上海iot",
+            "isShipping": 0,
+            "customerName": "NULL",
+            "remarks": ""
+        },
+        {
+            "imei": "860548040888627",
+            "QRcode": "STWB092003000029",
+            "background": "STW测试后台",
+            "iot": "上海iot",
+            "isShipping": 1,
+            "customerName": "法国客户",
+            "remarks": ""
+        },
+        {
+            "imei": "860548040888627",
+            "QRcode": "STWB092003000029",
+            "background": "STW测试后台",
+            "iot": "德国iot",
+            "isShipping": 0,
+            "customerName": "NULL",
+            "remarks": ""
+        },
+        {
+            "imei": "860548040888627",
+            "QRcode": "STWB092003000029",
+            "background": "STW测试后台",
+            "iot": "上海iot",
+            "isShipping": 1,
+            "customerName": "墨西哥客户",
+            "remarks": ""
+        },
+        {
+            "imei": "860548040888627",
+            "QRcode": "STWB092003000029",
+            "background": "STW测试后台",
+            "iot": "上海iot",
+            "isShipping": 0,
+            "customerName": "NULL",
+            "remarks": ""
+        }
+    ],
+    "pageTotal": 12
+}
